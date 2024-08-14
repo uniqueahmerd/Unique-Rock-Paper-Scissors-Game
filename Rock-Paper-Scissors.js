@@ -97,9 +97,9 @@ let score =
 
  document.querySelector('.js-moves')
    .innerHTML=`You
-    <img src="Images/${playerMove}-emoji.png"
+    <img src="${playerMove}-emoji.png"
          class="move-icon">
-       <img src="Images/${computerMove}-emoji.png" 
+       <img src="${computerMove}-emoji.png" 
          class="move-icon">
        Computer`
    }
