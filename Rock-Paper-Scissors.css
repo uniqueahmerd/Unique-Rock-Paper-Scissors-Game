@@ -25,6 +25,7 @@ p{
   width: 120px;
   margin-right: 5px;
   border-radius: 60px;
+  outline: 0;
 }
 
 .result{
